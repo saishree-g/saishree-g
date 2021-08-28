@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saishree-g
+- 👋 Hi, I’m Saishree Godbole
 - 👀 I’m interested in python, machine learning, social informatics
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on machine learning, social informatics
